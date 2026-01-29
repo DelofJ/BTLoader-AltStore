@@ -15,18 +15,18 @@
 			"tintColor": "0078d4",
 			"subtitle": "A Discord mod for iOS",
 			"localizedDescription": "A Discord mod for iOS that adds support for plugins and themes",
-			"version": "305.1",
-			"versionDate": "2026-01-02T13:47:54Z",
-			"versionDescription": "Updated to Discord v305.1",
-			"downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v305.1/bound.ipa",
-			"size": 99214914,
+			"version": "313.0",
+			"versionDate": "2026-01-28T15:34:11Z",
+			"versionDescription": "Updated to Discord v313.0",
+			"downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v313.0/bound.ipa",
+			"size": 95683987,
 			"versions": [
 				{
-					"version": "305.1",
-					"date": "2026-01-02T13:47:54Z",
-					"localizedDescription": "Updated to Discord v305.1",
-					"downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v305.1/bound.ipa",
-					"size": 99214914
+					"version": "313.0",
+					"date": "2026-01-28T15:34:11Z",
+					"localizedDescription": "Updated to Discord v313.0",
+					"downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v313.0/bound.ipa",
+					"size": 95683987
 				}
 			]
 		}
